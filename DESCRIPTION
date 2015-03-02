@@ -1,6 +1,6 @@
 Package: gdaltest
 Type: Package
-Title: What the package does (short line)
+Title: Test for travis build with gdal
 Version: 1.0
 Date: 2015-03-02
 Author: Who wrote it
