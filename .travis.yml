@@ -1,6 +1,6 @@
-language: 
-  r
+language: r
 
 apt_packages:
-  - libgdal1-dev
+  - gdal-bin
+  - libgdal-dev
   - libproj-dev
